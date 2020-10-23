@@ -9,7 +9,7 @@
 &emsp;2，实现基于mongodb的军事领域知识库的自动问答。  
 
 # 项目框架
-![image](https://github.com/liuhuanyong/QAonMilitaryKG/blob/master/image/schema.png)
+![image](https://github.com/SmartCommunitySZ/QAonMilitaryKG/blob/master/image/schema.png)
 
 # 项目构成
 
@@ -26,8 +26,8 @@
 
 
 # 2, 数据样式
-![image](https://github.com/liuhuanyong/QAonMilitaryKG/blob/master/image/data_sample1.png)
-![image](https://github.com/liuhuanyong/QAonMilitaryKG/blob/master/image/data_sample2.png)
+![image](https://github.com/SmartCommunitySZ/QAonMilitaryKG/blob/master/image/data_sample1.png)
+![image](https://github.com/SmartCommunitySZ/QAonMilitaryKG/blob/master/image/data_sample2.png)
 
 # 3, 问句类型
 
@@ -60,7 +60,7 @@
 &emsp;ps：若需要进行自我重新构建数据，可运行collect_data.py。  
 
 # 项目结果
-![image](https://github.com/liuhuanyong/QAonMilitaryKG/blob/master/image/res_example1.png)
+![image](https://github.com/SmartCommunitySZ/QAonMilitaryKG/blob/master/image/res_example1.png)
 
 
 # 总结
@@ -73,7 +73,3 @@
 7、知识图谱是结构化知识的一种方式，存储方式可以用关系型，可以用nosql，也可以用图数据库，不同的方式的区别在于sql的转化上。在关系级联程度不高的情况下，使用非图数据库可能会是更好的方式。  
 8、深度学习在工业界问答中，在基于qa对检索中用的比较多，在结构化知识图谱查询中较难大显身手，集中应用点在实体论元识别上，个人认为在实体属性关系的识别上不会很惊艳，很有可能没有规则来的快，来的准确。  
 
-如有自然语言处理、知识图谱、事理图谱、社会计算、语言资源建设等问题或合作，可联系我：  
-1、我的github项目介绍：https://liuhuanyong.github.io。  
-2、我的csdn博客：https://blog.csdn.net/lhy2014  
-3、about me:刘焕勇，中国科学院软件研究所，lhy_in_blcu@126.com  
